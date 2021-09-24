@@ -1,0 +1,1944 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-09-23T21:33:37.019-04:00
+  initializedAtString: 2021-09-23T21:28:04.875-04:00
+  entries:
+  - path: TerrainMapModule\TrueTerrainMapTest\Assets\TerrainMapTest.unity
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Assets\TerrainMapTest.unity
+    projectPath: Assets\TerrainMapTest.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TerrainMapModule\TrueTerrainMapTest\Assets\TerrainMapTest.unity.meta
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Assets\TerrainMapTest.unity.meta
+    projectPath: Assets\TerrainMapTest.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\ArtifactDB
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\00\009a5a98e9c6ab14b0ae2523ba01fa68
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\00\009a5a98e9c6ab14b0ae2523ba01fa68
+    projectPath: Library\Artifacts\00\009a5a98e9c6ab14b0ae2523ba01fa68
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\00\00b97ec17e2ba51e7156e98e9aec2681
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\00\00b97ec17e2ba51e7156e98e9aec2681
+    projectPath: Library\Artifacts\00\00b97ec17e2ba51e7156e98e9aec2681
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\02\028dff3e4f987b61da8709e2304c46e3
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\02\028dff3e4f987b61da8709e2304c46e3
+    projectPath: Library\Artifacts\02\028dff3e4f987b61da8709e2304c46e3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\02\029a7e1f4ae20f4384e4ccdf45374069
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\02\029a7e1f4ae20f4384e4ccdf45374069
+    projectPath: Library\Artifacts\02\029a7e1f4ae20f4384e4ccdf45374069
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\02\02c12b7bdf8fbc4b14df50264d75892d
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\02\02c12b7bdf8fbc4b14df50264d75892d
+    projectPath: Library\Artifacts\02\02c12b7bdf8fbc4b14df50264d75892d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\03\03a777f69d6da779e47843a2a6962604
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\03\03a777f69d6da779e47843a2a6962604
+    projectPath: Library\Artifacts\03\03a777f69d6da779e47843a2a6962604
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\04\0444c840fddbcb1dae8bd761662a69f2
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\04\0444c840fddbcb1dae8bd761662a69f2
+    projectPath: Library\Artifacts\04\0444c840fddbcb1dae8bd761662a69f2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\04\04b62228267cf3c4b079372471ab8242
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\04\04b62228267cf3c4b079372471ab8242
+    projectPath: Library\Artifacts\04\04b62228267cf3c4b079372471ab8242
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\05\058bd513a9e420c78eb67482738d9dcd
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\05\058bd513a9e420c78eb67482738d9dcd
+    projectPath: Library\Artifacts\05\058bd513a9e420c78eb67482738d9dcd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\05\05ace8baf65c83c6f82bafc8f415c756
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\05\05ace8baf65c83c6f82bafc8f415c756
+    projectPath: Library\Artifacts\05\05ace8baf65c83c6f82bafc8f415c756
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\07\077595611ad788e2ce7fb88f5f4fe201
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\07\077595611ad788e2ce7fb88f5f4fe201
+    projectPath: Library\Artifacts\07\077595611ad788e2ce7fb88f5f4fe201
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\07\0780cffc136cb468f489bd30f9e18e56
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\07\0780cffc136cb468f489bd30f9e18e56
+    projectPath: Library\Artifacts\07\0780cffc136cb468f489bd30f9e18e56
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\07\079fff13a315f0c0c7a0da058ea3e029
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\07\079fff13a315f0c0c7a0da058ea3e029
+    projectPath: Library\Artifacts\07\079fff13a315f0c0c7a0da058ea3e029
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\07\07b89c0cc42d0f4c055b6342d0f08656
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\07\07b89c0cc42d0f4c055b6342d0f08656
+    projectPath: Library\Artifacts\07\07b89c0cc42d0f4c055b6342d0f08656
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\07\07ea71ea87200e81335e898efcb4bb43
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\07\07ea71ea87200e81335e898efcb4bb43
+    projectPath: Library\Artifacts\07\07ea71ea87200e81335e898efcb4bb43
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\08\08256d8813c7e5ffbb0757cddf9c4da7
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\08\08256d8813c7e5ffbb0757cddf9c4da7
+    projectPath: Library\Artifacts\08\08256d8813c7e5ffbb0757cddf9c4da7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0a\0a64cb22e07486b6c1cb4574403410af
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0a\0a64cb22e07486b6c1cb4574403410af
+    projectPath: Library\Artifacts\0a\0a64cb22e07486b6c1cb4574403410af
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0c\0cc1eb4534d650b2acc6133018adaf88
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0c\0cc1eb4534d650b2acc6133018adaf88
+    projectPath: Library\Artifacts\0c\0cc1eb4534d650b2acc6133018adaf88
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0d\0d541ff361cb5b1b8d468d322223c038
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0d\0d541ff361cb5b1b8d468d322223c038
+    projectPath: Library\Artifacts\0d\0d541ff361cb5b1b8d468d322223c038
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0d\0dc485c9d5169cb535d6ae0f81f6d795
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0d\0dc485c9d5169cb535d6ae0f81f6d795
+    projectPath: Library\Artifacts\0d\0dc485c9d5169cb535d6ae0f81f6d795
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0e\0e33bde3a62fd4bbf37c8e2f6310fa86
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0e\0e33bde3a62fd4bbf37c8e2f6310fa86
+    projectPath: Library\Artifacts\0e\0e33bde3a62fd4bbf37c8e2f6310fa86
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0e\0e711a0029c247d9f2e6dcfa34354ef0
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0e\0e711a0029c247d9f2e6dcfa34354ef0
+    projectPath: Library\Artifacts\0e\0e711a0029c247d9f2e6dcfa34354ef0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0f\0f4d5782d32069e6b7cfb60dcfab0793
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0f\0f4d5782d32069e6b7cfb60dcfab0793
+    projectPath: Library\Artifacts\0f\0f4d5782d32069e6b7cfb60dcfab0793
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0f\0f6c5c9bc3bd0b0635c6ea050d0da10e
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0f\0f6c5c9bc3bd0b0635c6ea050d0da10e
+    projectPath: Library\Artifacts\0f\0f6c5c9bc3bd0b0635c6ea050d0da10e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0f\0f82011ef433b13b7681c68347c1d6b9
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0f\0f82011ef433b13b7681c68347c1d6b9
+    projectPath: Library\Artifacts\0f\0f82011ef433b13b7681c68347c1d6b9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0f\0fef45c4f6ffd9fd79826024886b0719
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\0f\0fef45c4f6ffd9fd79826024886b0719
+    projectPath: Library\Artifacts\0f\0fef45c4f6ffd9fd79826024886b0719
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\10\10371a0f1e3b134d8ea0fd5fc5f120f4
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\10\10371a0f1e3b134d8ea0fd5fc5f120f4
+    projectPath: Library\Artifacts\10\10371a0f1e3b134d8ea0fd5fc5f120f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\10\1046483d0e4d3d604184453ca80cb39c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\10\1046483d0e4d3d604184453ca80cb39c
+    projectPath: Library\Artifacts\10\1046483d0e4d3d604184453ca80cb39c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\10\10ca9f0b2e37dcf7fb8e72803d0964a4
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\10\10ca9f0b2e37dcf7fb8e72803d0964a4
+    projectPath: Library\Artifacts\10\10ca9f0b2e37dcf7fb8e72803d0964a4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\11\110fc398495eb9c4c2f044ae9ea4465b
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\11\110fc398495eb9c4c2f044ae9ea4465b
+    projectPath: Library\Artifacts\11\110fc398495eb9c4c2f044ae9ea4465b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\11\113418eb1a3d3f48014b517a200f7d38
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\11\113418eb1a3d3f48014b517a200f7d38
+    projectPath: Library\Artifacts\11\113418eb1a3d3f48014b517a200f7d38
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\12\1263da94a4f8c5530e0731f517841d60
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\12\1263da94a4f8c5530e0731f517841d60
+    projectPath: Library\Artifacts\12\1263da94a4f8c5530e0731f517841d60
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\14\14cfdccfe2c02248672f53c43ccad5a1
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\14\14cfdccfe2c02248672f53c43ccad5a1
+    projectPath: Library\Artifacts\14\14cfdccfe2c02248672f53c43ccad5a1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\15\15af6b6750c89dfcbada787f4e833c7f
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\15\15af6b6750c89dfcbada787f4e833c7f
+    projectPath: Library\Artifacts\15\15af6b6750c89dfcbada787f4e833c7f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\15\15e62d39f87d324956b3d233358f06eb
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\15\15e62d39f87d324956b3d233358f06eb
+    projectPath: Library\Artifacts\15\15e62d39f87d324956b3d233358f06eb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\16\165fca238990b42409220f4d04f74ec9
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\16\165fca238990b42409220f4d04f74ec9
+    projectPath: Library\Artifacts\16\165fca238990b42409220f4d04f74ec9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\16\16f2a005e926c1c897edb4be08dda228
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\16\16f2a005e926c1c897edb4be08dda228
+    projectPath: Library\Artifacts\16\16f2a005e926c1c897edb4be08dda228
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\17\17da42020d60f6142ed3cb1744bbb47b
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\17\17da42020d60f6142ed3cb1744bbb47b
+    projectPath: Library\Artifacts\17\17da42020d60f6142ed3cb1744bbb47b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\18\180f3ba653bd85c2556f912298331354
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\18\180f3ba653bd85c2556f912298331354
+    projectPath: Library\Artifacts\18\180f3ba653bd85c2556f912298331354
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\19\19a6fd01fdbe6cf80f7df213bf84d01e
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\19\19a6fd01fdbe6cf80f7df213bf84d01e
+    projectPath: Library\Artifacts\19\19a6fd01fdbe6cf80f7df213bf84d01e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1a\1a24a2ac22fc7c56b2ea84c66a389375
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1a\1a24a2ac22fc7c56b2ea84c66a389375
+    projectPath: Library\Artifacts\1a\1a24a2ac22fc7c56b2ea84c66a389375
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1a\1a46ab8153ee3a0ffb086b40fbaae3ad
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1a\1a46ab8153ee3a0ffb086b40fbaae3ad
+    projectPath: Library\Artifacts\1a\1a46ab8153ee3a0ffb086b40fbaae3ad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1a\1a8abfc3b352a82121f32894c69192ff
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1a\1a8abfc3b352a82121f32894c69192ff
+    projectPath: Library\Artifacts\1a\1a8abfc3b352a82121f32894c69192ff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1a\1a953c792a45c3bb7b6a970071ea0825
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1a\1a953c792a45c3bb7b6a970071ea0825
+    projectPath: Library\Artifacts\1a\1a953c792a45c3bb7b6a970071ea0825
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1b\1b2f4609cd332f82d486df811181d173
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1b\1b2f4609cd332f82d486df811181d173
+    projectPath: Library\Artifacts\1b\1b2f4609cd332f82d486df811181d173
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1c\1cb59a47b78fb90abce31f30b8801260
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1c\1cb59a47b78fb90abce31f30b8801260
+    projectPath: Library\Artifacts\1c\1cb59a47b78fb90abce31f30b8801260
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1d\1d11af6fac120ba5af7aa2d5d9a1a7fb
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1d\1d11af6fac120ba5af7aa2d5d9a1a7fb
+    projectPath: Library\Artifacts\1d\1d11af6fac120ba5af7aa2d5d9a1a7fb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1d\1ddd9f2f819a432e7350eafa86fdd972
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1d\1ddd9f2f819a432e7350eafa86fdd972
+    projectPath: Library\Artifacts\1d\1ddd9f2f819a432e7350eafa86fdd972
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    projectPath: Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\20\20abc4110f2aba471bddbacd29ff28a7
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\20\20abc4110f2aba471bddbacd29ff28a7
+    projectPath: Library\Artifacts\20\20abc4110f2aba471bddbacd29ff28a7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\20\20f34990300ce265afaf5382aa062852
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\20\20f34990300ce265afaf5382aa062852
+    projectPath: Library\Artifacts\20\20f34990300ce265afaf5382aa062852
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\23\23c2f590cd9f009a5aaa5e47c304a242
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\23\23c2f590cd9f009a5aaa5e47c304a242
+    projectPath: Library\Artifacts\23\23c2f590cd9f009a5aaa5e47c304a242
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\24\24a0e35be4bfc22fee71be80ff882898
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\24\24a0e35be4bfc22fee71be80ff882898
+    projectPath: Library\Artifacts\24\24a0e35be4bfc22fee71be80ff882898
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\26\26f22c593a3e39789f8f3425ca9190b3
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\26\26f22c593a3e39789f8f3425ca9190b3
+    projectPath: Library\Artifacts\26\26f22c593a3e39789f8f3425ca9190b3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\27\27580e2ebcd9c8d18973a1d1035839d6
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\27\27580e2ebcd9c8d18973a1d1035839d6
+    projectPath: Library\Artifacts\27\27580e2ebcd9c8d18973a1d1035839d6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\2a\2a8e253f12de1b33d6261deda68883da
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\2a\2a8e253f12de1b33d6261deda68883da
+    projectPath: Library\Artifacts\2a\2a8e253f12de1b33d6261deda68883da
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\2b\2b1ffef17334e13c237279b15c9b7b8d
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\2b\2b1ffef17334e13c237279b15c9b7b8d
+    projectPath: Library\Artifacts\2b\2b1ffef17334e13c237279b15c9b7b8d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\2b\2b9f72c90b155111bfea931f93ef5338
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\2b\2b9f72c90b155111bfea931f93ef5338
+    projectPath: Library\Artifacts\2b\2b9f72c90b155111bfea931f93ef5338
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\2d\2d6c9a80a30d8f3e03449772c82a3c4c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\2d\2d6c9a80a30d8f3e03449772c82a3c4c
+    projectPath: Library\Artifacts\2d\2d6c9a80a30d8f3e03449772c82a3c4c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\2e\2e04f589bcb0fad0887befe57ea3f9fd
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\2e\2e04f589bcb0fad0887befe57ea3f9fd
+    projectPath: Library\Artifacts\2e\2e04f589bcb0fad0887befe57ea3f9fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\2f\2f4bdec8abf662bbcb90043d343bd62f
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\2f\2f4bdec8abf662bbcb90043d343bd62f
+    projectPath: Library\Artifacts\2f\2f4bdec8abf662bbcb90043d343bd62f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\2f\2f525962512ebc3d1edd9331f05348b8
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\2f\2f525962512ebc3d1edd9331f05348b8
+    projectPath: Library\Artifacts\2f\2f525962512ebc3d1edd9331f05348b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\30\3031c8141bd145d1f796f7024e1420ac
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\30\3031c8141bd145d1f796f7024e1420ac
+    projectPath: Library\Artifacts\30\3031c8141bd145d1f796f7024e1420ac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\31\3112c8f9df73ece8721363b08de112f6
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\31\3112c8f9df73ece8721363b08de112f6
+    projectPath: Library\Artifacts\31\3112c8f9df73ece8721363b08de112f6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\31\318b28bdb840802332181d4833bd968a
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\31\318b28bdb840802332181d4833bd968a
+    projectPath: Library\Artifacts\31\318b28bdb840802332181d4833bd968a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\33\333bc4548d1a18e575ffb530269f7b90
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\33\333bc4548d1a18e575ffb530269f7b90
+    projectPath: Library\Artifacts\33\333bc4548d1a18e575ffb530269f7b90
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\33\3341a01048ea59ab6976098d3bc2cccf
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\33\3341a01048ea59ab6976098d3bc2cccf
+    projectPath: Library\Artifacts\33\3341a01048ea59ab6976098d3bc2cccf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\33\3346eafd35d9fabba6f8158b3e2bb8dd
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\33\3346eafd35d9fabba6f8158b3e2bb8dd
+    projectPath: Library\Artifacts\33\3346eafd35d9fabba6f8158b3e2bb8dd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\33\33b6333e697225d4f1c3a4ab03e34571
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\33\33b6333e697225d4f1c3a4ab03e34571
+    projectPath: Library\Artifacts\33\33b6333e697225d4f1c3a4ab03e34571
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\35\358b3978be9ecda2904c8382cbd11a9b
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\35\358b3978be9ecda2904c8382cbd11a9b
+    projectPath: Library\Artifacts\35\358b3978be9ecda2904c8382cbd11a9b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\37\37db380db0d90c17c899068d245adec3
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\37\37db380db0d90c17c899068d245adec3
+    projectPath: Library\Artifacts\37\37db380db0d90c17c899068d245adec3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\38\382e885fb44262e97647dc138db032c5
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\38\382e885fb44262e97647dc138db032c5
+    projectPath: Library\Artifacts\38\382e885fb44262e97647dc138db032c5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\39\39aac91ffdb645715b4975e0d5bc5240
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\39\39aac91ffdb645715b4975e0d5bc5240
+    projectPath: Library\Artifacts\39\39aac91ffdb645715b4975e0d5bc5240
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3b\3b1defb43e40b980a18a62383f679035
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3b\3b1defb43e40b980a18a62383f679035
+    projectPath: Library\Artifacts\3b\3b1defb43e40b980a18a62383f679035
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3b\3b1f67e6c39b8dd033e7b7d2f57c6c4b
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3b\3b1f67e6c39b8dd033e7b7d2f57c6c4b
+    projectPath: Library\Artifacts\3b\3b1f67e6c39b8dd033e7b7d2f57c6c4b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3c\3c32d4eeff3711fdfe1e03c3678d0e7b
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3c\3c32d4eeff3711fdfe1e03c3678d0e7b
+    projectPath: Library\Artifacts\3c\3c32d4eeff3711fdfe1e03c3678d0e7b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3d\3d24d2a557ada5066853b6d009ecaf24
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3d\3d24d2a557ada5066853b6d009ecaf24
+    projectPath: Library\Artifacts\3d\3d24d2a557ada5066853b6d009ecaf24
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3e\3e062a69bdc124bbef2b409ae45ffd85
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3e\3e062a69bdc124bbef2b409ae45ffd85
+    projectPath: Library\Artifacts\3e\3e062a69bdc124bbef2b409ae45ffd85
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3e\3e97813e8a0ea24a9487f50bcbf548df
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3e\3e97813e8a0ea24a9487f50bcbf548df
+    projectPath: Library\Artifacts\3e\3e97813e8a0ea24a9487f50bcbf548df
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3e\3ede1b61b7f98e4ecf955622ab10b82e
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3e\3ede1b61b7f98e4ecf955622ab10b82e
+    projectPath: Library\Artifacts\3e\3ede1b61b7f98e4ecf955622ab10b82e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3f\3f03729a3f64d3254443790972361b6b
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\3f\3f03729a3f64d3254443790972361b6b
+    projectPath: Library\Artifacts\3f\3f03729a3f64d3254443790972361b6b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\40\4048a27612fb01d0eff5660f1887c12a
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\40\4048a27612fb01d0eff5660f1887c12a
+    projectPath: Library\Artifacts\40\4048a27612fb01d0eff5660f1887c12a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\41\41fe589ccb169521519a7392f9a24fd6
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\41\41fe589ccb169521519a7392f9a24fd6
+    projectPath: Library\Artifacts\41\41fe589ccb169521519a7392f9a24fd6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\42\4293948ea6b4ac30e9705e05c0a78415
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\42\4293948ea6b4ac30e9705e05c0a78415
+    projectPath: Library\Artifacts\42\4293948ea6b4ac30e9705e05c0a78415
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\44\44e6db0be233866b45a34bc48cadfc3b
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\44\44e6db0be233866b45a34bc48cadfc3b
+    projectPath: Library\Artifacts\44\44e6db0be233866b45a34bc48cadfc3b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\45\4545c57ead29f91e83f66e9c3b4a3975
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\45\4545c57ead29f91e83f66e9c3b4a3975
+    projectPath: Library\Artifacts\45\4545c57ead29f91e83f66e9c3b4a3975
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\45\4574c4869c58c7c47bd147336c29a9c3
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\45\4574c4869c58c7c47bd147336c29a9c3
+    projectPath: Library\Artifacts\45\4574c4869c58c7c47bd147336c29a9c3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\46\463390383872fdb28a31551dd77ffc40
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\46\463390383872fdb28a31551dd77ffc40
+    projectPath: Library\Artifacts\46\463390383872fdb28a31551dd77ffc40
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\46\464edf41eda42eb8dc5d0e65b44218c1
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\46\464edf41eda42eb8dc5d0e65b44218c1
+    projectPath: Library\Artifacts\46\464edf41eda42eb8dc5d0e65b44218c1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\46\46c906193c6f3970de5e6440821c4217
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\46\46c906193c6f3970de5e6440821c4217
+    projectPath: Library\Artifacts\46\46c906193c6f3970de5e6440821c4217
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\46\46d5289be4d339d1413a7a16fa3cb7c8
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\46\46d5289be4d339d1413a7a16fa3cb7c8
+    projectPath: Library\Artifacts\46\46d5289be4d339d1413a7a16fa3cb7c8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\47\473ab07a7664c848a9aa660617c24b57
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\47\473ab07a7664c848a9aa660617c24b57
+    projectPath: Library\Artifacts\47\473ab07a7664c848a9aa660617c24b57
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\47\47f465e24f8c61b52600eb43a29bdf5b
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\47\47f465e24f8c61b52600eb43a29bdf5b
+    projectPath: Library\Artifacts\47\47f465e24f8c61b52600eb43a29bdf5b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\47\47f5c8518e6e2dbce0405d9e4ca44377
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\47\47f5c8518e6e2dbce0405d9e4ca44377
+    projectPath: Library\Artifacts\47\47f5c8518e6e2dbce0405d9e4ca44377
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\48\480b22025271473c57fc6851a095484f
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\48\480b22025271473c57fc6851a095484f
+    projectPath: Library\Artifacts\48\480b22025271473c57fc6851a095484f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\49\492dc876e7b02bc78bab022b40d8ce17
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\49\492dc876e7b02bc78bab022b40d8ce17
+    projectPath: Library\Artifacts\49\492dc876e7b02bc78bab022b40d8ce17
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\49\492e16cbaef0c4b429fc678a7e77d61e
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\49\492e16cbaef0c4b429fc678a7e77d61e
+    projectPath: Library\Artifacts\49\492e16cbaef0c4b429fc678a7e77d61e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\49\495fb6db54f934664cf36677baf3a670
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\49\495fb6db54f934664cf36677baf3a670
+    projectPath: Library\Artifacts\49\495fb6db54f934664cf36677baf3a670
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\49\49709e5321e0a9e0512bb674f0951f93
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\49\49709e5321e0a9e0512bb674f0951f93
+    projectPath: Library\Artifacts\49\49709e5321e0a9e0512bb674f0951f93
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\4b\4bdc7b7c0ac966f981af343113c770eb
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\4b\4bdc7b7c0ac966f981af343113c770eb
+    projectPath: Library\Artifacts\4b\4bdc7b7c0ac966f981af343113c770eb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\4d\4d5c229217251ca444fc4e587ee0ea30
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\4d\4d5c229217251ca444fc4e587ee0ea30
+    projectPath: Library\Artifacts\4d\4d5c229217251ca444fc4e587ee0ea30
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\4f\4f9516364841629c16be2cbcbf55079b
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\4f\4f9516364841629c16be2cbcbf55079b
+    projectPath: Library\Artifacts\4f\4f9516364841629c16be2cbcbf55079b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\4f\4fa7ea097c95adf1b359c8ca92f8debc
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\4f\4fa7ea097c95adf1b359c8ca92f8debc
+    projectPath: Library\Artifacts\4f\4fa7ea097c95adf1b359c8ca92f8debc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\51\518585149d843e5881da70c13810553e
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\51\518585149d843e5881da70c13810553e
+    projectPath: Library\Artifacts\51\518585149d843e5881da70c13810553e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\52\5211f76d007348a2e698bc64f90d6ef8
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\52\5211f76d007348a2e698bc64f90d6ef8
+    projectPath: Library\Artifacts\52\5211f76d007348a2e698bc64f90d6ef8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\54\54b6508eb0fe88a4687dcfcef4d6fcff
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\54\54b6508eb0fe88a4687dcfcef4d6fcff
+    projectPath: Library\Artifacts\54\54b6508eb0fe88a4687dcfcef4d6fcff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\54\54c38fbe2e73b86aebbe9978d0748595
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\54\54c38fbe2e73b86aebbe9978d0748595
+    projectPath: Library\Artifacts\54\54c38fbe2e73b86aebbe9978d0748595
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\54\54c90a6a6d65aa58bd921b7a48af9984
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\54\54c90a6a6d65aa58bd921b7a48af9984
+    projectPath: Library\Artifacts\54\54c90a6a6d65aa58bd921b7a48af9984
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\56\561830998ddc33826a6abfa808835646
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\56\561830998ddc33826a6abfa808835646
+    projectPath: Library\Artifacts\56\561830998ddc33826a6abfa808835646
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\56\56e94f8024c2807762168b78c9aefcf5
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\56\56e94f8024c2807762168b78c9aefcf5
+    projectPath: Library\Artifacts\56\56e94f8024c2807762168b78c9aefcf5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\57\5739ce8613a37c1215c05b1db7e0d822
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\57\5739ce8613a37c1215c05b1db7e0d822
+    projectPath: Library\Artifacts\57\5739ce8613a37c1215c05b1db7e0d822
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\58\58c53ce38166558c34f9515401e0f51c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\58\58c53ce38166558c34f9515401e0f51c
+    projectPath: Library\Artifacts\58\58c53ce38166558c34f9515401e0f51c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\59\59fc243a47dafb49a9e16776f0f8d180
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\59\59fc243a47dafb49a9e16776f0f8d180
+    projectPath: Library\Artifacts\59\59fc243a47dafb49a9e16776f0f8d180
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\5a\5a4c2fc13d0de5f96f9fb943fa1ebc86
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\5a\5a4c2fc13d0de5f96f9fb943fa1ebc86
+    projectPath: Library\Artifacts\5a\5a4c2fc13d0de5f96f9fb943fa1ebc86
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\5b\5bd0e87abebfa6c8dbba5af63b3554a3
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\5b\5bd0e87abebfa6c8dbba5af63b3554a3
+    projectPath: Library\Artifacts\5b\5bd0e87abebfa6c8dbba5af63b3554a3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\5e\5e30e5a6820ed569e58990a04cc091bb
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\5e\5e30e5a6820ed569e58990a04cc091bb
+    projectPath: Library\Artifacts\5e\5e30e5a6820ed569e58990a04cc091bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\5f\5f64fa7daa06dd4f44e3680d9dcfe5ca
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\5f\5f64fa7daa06dd4f44e3680d9dcfe5ca
+    projectPath: Library\Artifacts\5f\5f64fa7daa06dd4f44e3680d9dcfe5ca
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\60\60389dc06e19a315e9bec0e32992fd4d
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\60\60389dc06e19a315e9bec0e32992fd4d
+    projectPath: Library\Artifacts\60\60389dc06e19a315e9bec0e32992fd4d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\60\60f0a7d75e35191239309e70272a1b77
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\60\60f0a7d75e35191239309e70272a1b77
+    projectPath: Library\Artifacts\60\60f0a7d75e35191239309e70272a1b77
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\61\61fc728960772b2a06e5f7b45c6e131c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\61\61fc728960772b2a06e5f7b45c6e131c
+    projectPath: Library\Artifacts\61\61fc728960772b2a06e5f7b45c6e131c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\62\6237cda843de3e84d16ad27e7f756407
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\62\6237cda843de3e84d16ad27e7f756407
+    projectPath: Library\Artifacts\62\6237cda843de3e84d16ad27e7f756407
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\64\6438c6b52ca5d99b6fe9f4def274a25a
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\64\6438c6b52ca5d99b6fe9f4def274a25a
+    projectPath: Library\Artifacts\64\6438c6b52ca5d99b6fe9f4def274a25a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\64\643a6a413b518a2d48ae9ac55e6a271d
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\64\643a6a413b518a2d48ae9ac55e6a271d
+    projectPath: Library\Artifacts\64\643a6a413b518a2d48ae9ac55e6a271d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\65\65a5d3631c29018e648191313d174825
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\65\65a5d3631c29018e648191313d174825
+    projectPath: Library\Artifacts\65\65a5d3631c29018e648191313d174825
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\66\66390f50559d6a33ab28f2d1fd3d3fc0
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\66\66390f50559d6a33ab28f2d1fd3d3fc0
+    projectPath: Library\Artifacts\66\66390f50559d6a33ab28f2d1fd3d3fc0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\69\690b0e39eb98a02115de300be4a44570
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\69\690b0e39eb98a02115de300be4a44570
+    projectPath: Library\Artifacts\69\690b0e39eb98a02115de300be4a44570
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\69\69436fdcb12b9bb247325c532c86ec84
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\69\69436fdcb12b9bb247325c532c86ec84
+    projectPath: Library\Artifacts\69\69436fdcb12b9bb247325c532c86ec84
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\69\698e7d51bf18e940dc4298e53750516b
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\69\698e7d51bf18e940dc4298e53750516b
+    projectPath: Library\Artifacts\69\698e7d51bf18e940dc4298e53750516b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\6b\6b53b9eb0cbd5f8bdd71a95fe45b8f38
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\6b\6b53b9eb0cbd5f8bdd71a95fe45b8f38
+    projectPath: Library\Artifacts\6b\6b53b9eb0cbd5f8bdd71a95fe45b8f38
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\6b\6b693e7c84611277af9ca61bdf3a720e
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\6b\6b693e7c84611277af9ca61bdf3a720e
+    projectPath: Library\Artifacts\6b\6b693e7c84611277af9ca61bdf3a720e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\6c\6c0b0112523a45a441eb2667a8223550
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\6c\6c0b0112523a45a441eb2667a8223550
+    projectPath: Library\Artifacts\6c\6c0b0112523a45a441eb2667a8223550
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\6c\6c0c93b23a05fa47f90a5b1301432d62
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\6c\6c0c93b23a05fa47f90a5b1301432d62
+    projectPath: Library\Artifacts\6c\6c0c93b23a05fa47f90a5b1301432d62
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\6d\6dc5770b328d78b844a34784eddfd186
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\6d\6dc5770b328d78b844a34784eddfd186
+    projectPath: Library\Artifacts\6d\6dc5770b328d78b844a34784eddfd186
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\6f\6f1436fcc9cb26b028254b7cd658f8b7
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\6f\6f1436fcc9cb26b028254b7cd658f8b7
+    projectPath: Library\Artifacts\6f\6f1436fcc9cb26b028254b7cd658f8b7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\6f\6f9993704603826ae1ade7a1b1dd68b6
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\6f\6f9993704603826ae1ade7a1b1dd68b6
+    projectPath: Library\Artifacts\6f\6f9993704603826ae1ade7a1b1dd68b6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\72\723294887a05c4c01a294ece517ad784
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\72\723294887a05c4c01a294ece517ad784
+    projectPath: Library\Artifacts\72\723294887a05c4c01a294ece517ad784
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\72\72d561f421bbed78cc6268fcdf231c76
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\72\72d561f421bbed78cc6268fcdf231c76
+    projectPath: Library\Artifacts\72\72d561f421bbed78cc6268fcdf231c76
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\73\7304d601f2a307dd806e0a0ec3f5784f
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\73\7304d601f2a307dd806e0a0ec3f5784f
+    projectPath: Library\Artifacts\73\7304d601f2a307dd806e0a0ec3f5784f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\73\73b8942bb8660b59d201438a1986b150
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\73\73b8942bb8660b59d201438a1986b150
+    projectPath: Library\Artifacts\73\73b8942bb8660b59d201438a1986b150
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\75\75632b71d700cc0605c1dea5dc56dd86
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\75\75632b71d700cc0605c1dea5dc56dd86
+    projectPath: Library\Artifacts\75\75632b71d700cc0605c1dea5dc56dd86
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\75\75c610eea9cdb35f92489b522b862f04
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\75\75c610eea9cdb35f92489b522b862f04
+    projectPath: Library\Artifacts\75\75c610eea9cdb35f92489b522b862f04
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\77\7741d81331dee70a98eafd60b0e92761
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\77\7741d81331dee70a98eafd60b0e92761
+    projectPath: Library\Artifacts\77\7741d81331dee70a98eafd60b0e92761
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\77\77b371f63e46612a5bcdca1b434c1216
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\77\77b371f63e46612a5bcdca1b434c1216
+    projectPath: Library\Artifacts\77\77b371f63e46612a5bcdca1b434c1216
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\78\780fb99e1ea1a4b02a8704096419b377
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\78\780fb99e1ea1a4b02a8704096419b377
+    projectPath: Library\Artifacts\78\780fb99e1ea1a4b02a8704096419b377
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\79\799e52a5a27d6ebbaa47d94cdb318666
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\79\799e52a5a27d6ebbaa47d94cdb318666
+    projectPath: Library\Artifacts\79\799e52a5a27d6ebbaa47d94cdb318666
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\7a\7a1d1655335cc6d6cf35a2b09fad0a8c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\7a\7a1d1655335cc6d6cf35a2b09fad0a8c
+    projectPath: Library\Artifacts\7a\7a1d1655335cc6d6cf35a2b09fad0a8c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\7c\7c3929e2b420b980a9b67488f8dc310d
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\7c\7c3929e2b420b980a9b67488f8dc310d
+    projectPath: Library\Artifacts\7c\7c3929e2b420b980a9b67488f8dc310d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\7c\7cb6147f463df45df38f042479a533d9
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\7c\7cb6147f463df45df38f042479a533d9
+    projectPath: Library\Artifacts\7c\7cb6147f463df45df38f042479a533d9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\7f\7f47cd9e9cf2f55a84ab66534e5210c3
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\7f\7f47cd9e9cf2f55a84ab66534e5210c3
+    projectPath: Library\Artifacts\7f\7f47cd9e9cf2f55a84ab66534e5210c3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\7f\7f73e1bc78cda408036834324f9c3a92
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\7f\7f73e1bc78cda408036834324f9c3a92
+    projectPath: Library\Artifacts\7f\7f73e1bc78cda408036834324f9c3a92
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\7f\7f97e80f4dfe9a6276db367f34e00423
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\7f\7f97e80f4dfe9a6276db367f34e00423
+    projectPath: Library\Artifacts\7f\7f97e80f4dfe9a6276db367f34e00423
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\7f\7fc5c1f4cc005871d7e905f2c4c0736c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\7f\7fc5c1f4cc005871d7e905f2c4c0736c
+    projectPath: Library\Artifacts\7f\7fc5c1f4cc005871d7e905f2c4c0736c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\80\80bf4b5940a0ab0e55be8391a8582242
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\80\80bf4b5940a0ab0e55be8391a8582242
+    projectPath: Library\Artifacts\80\80bf4b5940a0ab0e55be8391a8582242
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\81\8103b2aed1fd1667f0f1d46d6b0efdae
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\81\8103b2aed1fd1667f0f1d46d6b0efdae
+    projectPath: Library\Artifacts\81\8103b2aed1fd1667f0f1d46d6b0efdae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\81\818b79050637bd89bff0a679e38b4c64
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\81\818b79050637bd89bff0a679e38b4c64
+    projectPath: Library\Artifacts\81\818b79050637bd89bff0a679e38b4c64
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\82\828ba313807efe71f742a1afa94da61e
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\82\828ba313807efe71f742a1afa94da61e
+    projectPath: Library\Artifacts\82\828ba313807efe71f742a1afa94da61e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\83\830c8e1c615b790a041eaa5fefd57527
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\83\830c8e1c615b790a041eaa5fefd57527
+    projectPath: Library\Artifacts\83\830c8e1c615b790a041eaa5fefd57527
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\83\8358cca73f44508bf7e481cd2f295ffe
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\83\8358cca73f44508bf7e481cd2f295ffe
+    projectPath: Library\Artifacts\83\8358cca73f44508bf7e481cd2f295ffe
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\83\836ca148ce86760fe100f5ae418f104e
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\83\836ca148ce86760fe100f5ae418f104e
+    projectPath: Library\Artifacts\83\836ca148ce86760fe100f5ae418f104e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\85\859a5f03750b7383f00072dd9e48644e
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\85\859a5f03750b7383f00072dd9e48644e
+    projectPath: Library\Artifacts\85\859a5f03750b7383f00072dd9e48644e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\86\867ad31dacdb21d1e5172c92c38b0ab7
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\86\867ad31dacdb21d1e5172c92c38b0ab7
+    projectPath: Library\Artifacts\86\867ad31dacdb21d1e5172c92c38b0ab7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\86\867f1e869288d6318905b32840aef2b1
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\86\867f1e869288d6318905b32840aef2b1
+    projectPath: Library\Artifacts\86\867f1e869288d6318905b32840aef2b1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\88\881bbc4bb5024d99fd337cfeec92017a
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\88\881bbc4bb5024d99fd337cfeec92017a
+    projectPath: Library\Artifacts\88\881bbc4bb5024d99fd337cfeec92017a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\88\8846eeb8c59c85b72b865af19bf6220c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\88\8846eeb8c59c85b72b865af19bf6220c
+    projectPath: Library\Artifacts\88\8846eeb8c59c85b72b865af19bf6220c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\89\89030d5304402f668522f55bd080ce61
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\89\89030d5304402f668522f55bd080ce61
+    projectPath: Library\Artifacts\89\89030d5304402f668522f55bd080ce61
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8a\8a7d5ffa50f6a960cf7eed3a6afc2202
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8a\8a7d5ffa50f6a960cf7eed3a6afc2202
+    projectPath: Library\Artifacts\8a\8a7d5ffa50f6a960cf7eed3a6afc2202
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8b\8b167838c8324e48cae3f6347d119949
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8b\8b167838c8324e48cae3f6347d119949
+    projectPath: Library\Artifacts\8b\8b167838c8324e48cae3f6347d119949
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8b\8b7f3548fb95cac67055d654b5be0c25
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8b\8b7f3548fb95cac67055d654b5be0c25
+    projectPath: Library\Artifacts\8b\8b7f3548fb95cac67055d654b5be0c25
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8b\8bdd42e0dd3422aa8dcc899cc430f87a
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8b\8bdd42e0dd3422aa8dcc899cc430f87a
+    projectPath: Library\Artifacts\8b\8bdd42e0dd3422aa8dcc899cc430f87a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8b\8bf68d351d1d54791a23d86c1e76ddd3
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8b\8bf68d351d1d54791a23d86c1e76ddd3
+    projectPath: Library\Artifacts\8b\8bf68d351d1d54791a23d86c1e76ddd3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8c\8c73df9d22b8f80178d5898a8628f0fd
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8c\8c73df9d22b8f80178d5898a8628f0fd
+    projectPath: Library\Artifacts\8c\8c73df9d22b8f80178d5898a8628f0fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8c\8cb16a439b96da33ae545f873a455d09
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8c\8cb16a439b96da33ae545f873a455d09
+    projectPath: Library\Artifacts\8c\8cb16a439b96da33ae545f873a455d09
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8e\8e9017dcadeb7e6fe337d3f5f318f06d
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8e\8e9017dcadeb7e6fe337d3f5f318f06d
+    projectPath: Library\Artifacts\8e\8e9017dcadeb7e6fe337d3f5f318f06d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8f\8fab3636ca4484038e45f37a5d40b1f6
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\8f\8fab3636ca4484038e45f37a5d40b1f6
+    projectPath: Library\Artifacts\8f\8fab3636ca4484038e45f37a5d40b1f6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\90\903f1674ba153290f058cbd0c8ee97a5
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\90\903f1674ba153290f058cbd0c8ee97a5
+    projectPath: Library\Artifacts\90\903f1674ba153290f058cbd0c8ee97a5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\90\906c908131bc588e852d9e4ca1febf59
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\90\906c908131bc588e852d9e4ca1febf59
+    projectPath: Library\Artifacts\90\906c908131bc588e852d9e4ca1febf59
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\90\909d1b4f4edff59ad0dd519186300ab0
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\90\909d1b4f4edff59ad0dd519186300ab0
+    projectPath: Library\Artifacts\90\909d1b4f4edff59ad0dd519186300ab0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\92\920ee4785076a4dd5d46efd7da39ff9e
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\92\920ee4785076a4dd5d46efd7da39ff9e
+    projectPath: Library\Artifacts\92\920ee4785076a4dd5d46efd7da39ff9e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\93\93707c5691a78618314b03db9a81591a
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\93\93707c5691a78618314b03db9a81591a
+    projectPath: Library\Artifacts\93\93707c5691a78618314b03db9a81591a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\93\9372593fec892dd11429a7ec990ca831
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\93\9372593fec892dd11429a7ec990ca831
+    projectPath: Library\Artifacts\93\9372593fec892dd11429a7ec990ca831
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\94\94022a9b602b1e5025e802ffb1968147
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\94\94022a9b602b1e5025e802ffb1968147
+    projectPath: Library\Artifacts\94\94022a9b602b1e5025e802ffb1968147
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\94\94bd94b28e0e96adb3a7b5e53d480e5f
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\94\94bd94b28e0e96adb3a7b5e53d480e5f
+    projectPath: Library\Artifacts\94\94bd94b28e0e96adb3a7b5e53d480e5f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\96\96c01945826773411cec14ca809213fa
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\96\96c01945826773411cec14ca809213fa
+    projectPath: Library\Artifacts\96\96c01945826773411cec14ca809213fa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\97\97120bc2afa55cce8c1269c3fc6f3c49
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\97\97120bc2afa55cce8c1269c3fc6f3c49
+    projectPath: Library\Artifacts\97\97120bc2afa55cce8c1269c3fc6f3c49
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\97\971bf5c541bd2c711c322d04fb70803c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\97\971bf5c541bd2c711c322d04fb70803c
+    projectPath: Library\Artifacts\97\971bf5c541bd2c711c322d04fb70803c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\9b\9b8cdecef4a22a51c89375a84f79670c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\9b\9b8cdecef4a22a51c89375a84f79670c
+    projectPath: Library\Artifacts\9b\9b8cdecef4a22a51c89375a84f79670c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\9c\9cabdaf7f5e9a38c9a020c53d3d5f237
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\9c\9cabdaf7f5e9a38c9a020c53d3d5f237
+    projectPath: Library\Artifacts\9c\9cabdaf7f5e9a38c9a020c53d3d5f237
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\9e\9ea0dcf45ad2f8c92e0c4cb4ace1eaa5
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\9e\9ea0dcf45ad2f8c92e0c4cb4ace1eaa5
+    projectPath: Library\Artifacts\9e\9ea0dcf45ad2f8c92e0c4cb4ace1eaa5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\9f\9f2ceb1386218492489581e35e96d679
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\9f\9f2ceb1386218492489581e35e96d679
+    projectPath: Library\Artifacts\9f\9f2ceb1386218492489581e35e96d679
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a0\a04ccee3980c9fd7754a54b09f0035a3
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a0\a04ccee3980c9fd7754a54b09f0035a3
+    projectPath: Library\Artifacts\a0\a04ccee3980c9fd7754a54b09f0035a3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a1\a11608b0fb43b30c6a53612cb043d34c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a1\a11608b0fb43b30c6a53612cb043d34c
+    projectPath: Library\Artifacts\a1\a11608b0fb43b30c6a53612cb043d34c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a1\a1970e485341dd7c468ed7ea09aefa1c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a1\a1970e485341dd7c468ed7ea09aefa1c
+    projectPath: Library\Artifacts\a1\a1970e485341dd7c468ed7ea09aefa1c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a4\a410e5c17eac875b9d0848599eaca865
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a4\a410e5c17eac875b9d0848599eaca865
+    projectPath: Library\Artifacts\a4\a410e5c17eac875b9d0848599eaca865
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a4\a411b272d7356034b9c646108a337aff
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a4\a411b272d7356034b9c646108a337aff
+    projectPath: Library\Artifacts\a4\a411b272d7356034b9c646108a337aff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a5\a510af800da7665d215efe88f95c249c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a5\a510af800da7665d215efe88f95c249c
+    projectPath: Library\Artifacts\a5\a510af800da7665d215efe88f95c249c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a5\a5dfc0a4bdccbb30f481c769be6a62e0
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a5\a5dfc0a4bdccbb30f481c769be6a62e0
+    projectPath: Library\Artifacts\a5\a5dfc0a4bdccbb30f481c769be6a62e0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a6\a6948512e6c48544b6650438571285ee
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a6\a6948512e6c48544b6650438571285ee
+    projectPath: Library\Artifacts\a6\a6948512e6c48544b6650438571285ee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a7\a7cced93fea007ba5a5b97ca17733cce
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\a7\a7cced93fea007ba5a5b97ca17733cce
+    projectPath: Library\Artifacts\a7\a7cced93fea007ba5a5b97ca17733cce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\aa\aa946204c8a3950f7694a3748ecb1878
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\aa\aa946204c8a3950f7694a3748ecb1878
+    projectPath: Library\Artifacts\aa\aa946204c8a3950f7694a3748ecb1878
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\aa\aabe4d56a4a401e8ab8514522d5a0560
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\aa\aabe4d56a4a401e8ab8514522d5a0560
+    projectPath: Library\Artifacts\aa\aabe4d56a4a401e8ab8514522d5a0560
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ae\ae140bc34e950903ad8079f44ca23002
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ae\ae140bc34e950903ad8079f44ca23002
+    projectPath: Library\Artifacts\ae\ae140bc34e950903ad8079f44ca23002
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ae\aed664e6bc7db745faa05aa7bff077e8
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ae\aed664e6bc7db745faa05aa7bff077e8
+    projectPath: Library\Artifacts\ae\aed664e6bc7db745faa05aa7bff077e8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\af\af791e92d9e03160f1362697b6c90115
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\af\af791e92d9e03160f1362697b6c90115
+    projectPath: Library\Artifacts\af\af791e92d9e03160f1362697b6c90115
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\af\af9f095b48e7d95cc6ea926381a44f28
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\af\af9f095b48e7d95cc6ea926381a44f28
+    projectPath: Library\Artifacts\af\af9f095b48e7d95cc6ea926381a44f28
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b0\b03497802105c57e5edde906d771f155
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b0\b03497802105c57e5edde906d771f155
+    projectPath: Library\Artifacts\b0\b03497802105c57e5edde906d771f155
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b1\b16b30b7b342258b8e464800b8fd9851
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b1\b16b30b7b342258b8e464800b8fd9851
+    projectPath: Library\Artifacts\b1\b16b30b7b342258b8e464800b8fd9851
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b1\b1c51386864cb7915a31408cd1ee662e
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b1\b1c51386864cb7915a31408cd1ee662e
+    projectPath: Library\Artifacts\b1\b1c51386864cb7915a31408cd1ee662e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b3\b3bf1959e359fd31cfaaa5af8958395c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b3\b3bf1959e359fd31cfaaa5af8958395c
+    projectPath: Library\Artifacts\b3\b3bf1959e359fd31cfaaa5af8958395c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b4\b4744bbc751e51e6a0f2f601bdadbf53
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b4\b4744bbc751e51e6a0f2f601bdadbf53
+    projectPath: Library\Artifacts\b4\b4744bbc751e51e6a0f2f601bdadbf53
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b4\b4c7ee45e3e4140cd829f196a8e30a68
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b4\b4c7ee45e3e4140cd829f196a8e30a68
+    projectPath: Library\Artifacts\b4\b4c7ee45e3e4140cd829f196a8e30a68
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b5\b51e792bd86c2d5e817fd5ae8f03a6a0
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b5\b51e792bd86c2d5e817fd5ae8f03a6a0
+    projectPath: Library\Artifacts\b5\b51e792bd86c2d5e817fd5ae8f03a6a0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b5\b5d2cca562bb26d263fb6defd94af6e0
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b5\b5d2cca562bb26d263fb6defd94af6e0
+    projectPath: Library\Artifacts\b5\b5d2cca562bb26d263fb6defd94af6e0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b5\b5dc36fa91d822bd82759a3e86c0f6cd
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b5\b5dc36fa91d822bd82759a3e86c0f6cd
+    projectPath: Library\Artifacts\b5\b5dc36fa91d822bd82759a3e86c0f6cd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b6\b69607e66658e3a5fc60cb3d4cd49198
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b6\b69607e66658e3a5fc60cb3d4cd49198
+    projectPath: Library\Artifacts\b6\b69607e66658e3a5fc60cb3d4cd49198
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b7\b707e7d9fdd9e6822cc29dd2f7db90b4
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b7\b707e7d9fdd9e6822cc29dd2f7db90b4
+    projectPath: Library\Artifacts\b7\b707e7d9fdd9e6822cc29dd2f7db90b4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b8\b805a761457db8a3e4e487d6c3739d6b
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b8\b805a761457db8a3e4e487d6c3739d6b
+    projectPath: Library\Artifacts\b8\b805a761457db8a3e4e487d6c3739d6b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b8\b8cfd2401c3a661fd96c8526bbd574bd
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b8\b8cfd2401c3a661fd96c8526bbd574bd
+    projectPath: Library\Artifacts\b8\b8cfd2401c3a661fd96c8526bbd574bd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b9\b9cee17774b749b6a9ba3f92b626ca43
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\b9\b9cee17774b749b6a9ba3f92b626ca43
+    projectPath: Library\Artifacts\b9\b9cee17774b749b6a9ba3f92b626ca43
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ba\bac57288184567a854606af66a6caa8c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ba\bac57288184567a854606af66a6caa8c
+    projectPath: Library\Artifacts\ba\bac57288184567a854606af66a6caa8c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\bb\bb4d7f67066830b894929add2adcf350
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\bb\bb4d7f67066830b894929add2adcf350
+    projectPath: Library\Artifacts\bb\bb4d7f67066830b894929add2adcf350
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\bb\bbcc7c1ced443a9ea4461a5814d6ed4a
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\bb\bbcc7c1ced443a9ea4461a5814d6ed4a
+    projectPath: Library\Artifacts\bb\bbcc7c1ced443a9ea4461a5814d6ed4a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\bc\bc1c9a06e3130a4fcc271f64d37e2d71
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\bc\bc1c9a06e3130a4fcc271f64d37e2d71
+    projectPath: Library\Artifacts\bc\bc1c9a06e3130a4fcc271f64d37e2d71
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+    projectPath: Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\bd\bdd6767693a0a9782ec53ceb171610a5
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\bd\bdd6767693a0a9782ec53ceb171610a5
+    projectPath: Library\Artifacts\bd\bdd6767693a0a9782ec53ceb171610a5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\bf\bf53a3319a7b526a0bb8df5693e98fa0
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\bf\bf53a3319a7b526a0bb8df5693e98fa0
+    projectPath: Library\Artifacts\bf\bf53a3319a7b526a0bb8df5693e98fa0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\bf\bf9d0f1ff56540afe3f0603528b2fe83
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\bf\bf9d0f1ff56540afe3f0603528b2fe83
+    projectPath: Library\Artifacts\bf\bf9d0f1ff56540afe3f0603528b2fe83
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c1\c1a2945fbce503b2750c70fc4fe3f0c2
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c1\c1a2945fbce503b2750c70fc4fe3f0c2
+    projectPath: Library\Artifacts\c1\c1a2945fbce503b2750c70fc4fe3f0c2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c1\c1ad288da8c84d88ecee177817d3f97c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c1\c1ad288da8c84d88ecee177817d3f97c
+    projectPath: Library\Artifacts\c1\c1ad288da8c84d88ecee177817d3f97c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c3\c3299e6221718494be932f54dcd0038b
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c3\c3299e6221718494be932f54dcd0038b
+    projectPath: Library\Artifacts\c3\c3299e6221718494be932f54dcd0038b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c3\c3ea8e14f9c0225abde593fb5d691498
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c3\c3ea8e14f9c0225abde593fb5d691498
+    projectPath: Library\Artifacts\c3\c3ea8e14f9c0225abde593fb5d691498
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c5\c520041b6b25dcf6a36cfef2ec828369
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c5\c520041b6b25dcf6a36cfef2ec828369
+    projectPath: Library\Artifacts\c5\c520041b6b25dcf6a36cfef2ec828369
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c5\c5488b3c4bc84cd060461ead9e9c07b0
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c5\c5488b3c4bc84cd060461ead9e9c07b0
+    projectPath: Library\Artifacts\c5\c5488b3c4bc84cd060461ead9e9c07b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c6\c67e203a29f9662d91fb0196494f2d8d
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c6\c67e203a29f9662d91fb0196494f2d8d
+    projectPath: Library\Artifacts\c6\c67e203a29f9662d91fb0196494f2d8d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c7\c767f6be87f79fc0aebfc9a7bec384d5
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\c7\c767f6be87f79fc0aebfc9a7bec384d5
+    projectPath: Library\Artifacts\c7\c767f6be87f79fc0aebfc9a7bec384d5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ca\ca73397f3639d9c6c37922000d77599f
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ca\ca73397f3639d9c6c37922000d77599f
+    projectPath: Library\Artifacts\ca\ca73397f3639d9c6c37922000d77599f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ca\caf81c8cad1a8fa8f2fde4f13965222e
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ca\caf81c8cad1a8fa8f2fde4f13965222e
+    projectPath: Library\Artifacts\ca\caf81c8cad1a8fa8f2fde4f13965222e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ca\cafdc4d790b3126757f03dbb70240ecc
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ca\cafdc4d790b3126757f03dbb70240ecc
+    projectPath: Library\Artifacts\ca\cafdc4d790b3126757f03dbb70240ecc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\cb\cb3f7bc66367bae0848a4c2245033677
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\cb\cb3f7bc66367bae0848a4c2245033677
+    projectPath: Library\Artifacts\cb\cb3f7bc66367bae0848a4c2245033677
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\cc\cc7ce1ed32e29fe209a9840995e4fc19
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\cc\cc7ce1ed32e29fe209a9840995e4fc19
+    projectPath: Library\Artifacts\cc\cc7ce1ed32e29fe209a9840995e4fc19
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\cd\cd66f620be90f26b0579befb627251c2
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\cd\cd66f620be90f26b0579befb627251c2
+    projectPath: Library\Artifacts\cd\cd66f620be90f26b0579befb627251c2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\cd\cdc74d1609a1bc54514c92d930cb407a
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\cd\cdc74d1609a1bc54514c92d930cb407a
+    projectPath: Library\Artifacts\cd\cdc74d1609a1bc54514c92d930cb407a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ce\cedda299dcb199f4c49e01f657f9df0b
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ce\cedda299dcb199f4c49e01f657f9df0b
+    projectPath: Library\Artifacts\ce\cedda299dcb199f4c49e01f657f9df0b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\cf\cf83083707ca09f4b13870f6acd7fd54
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\cf\cf83083707ca09f4b13870f6acd7fd54
+    projectPath: Library\Artifacts\cf\cf83083707ca09f4b13870f6acd7fd54
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\cf\cf997eec429c4885b6ae5853394407e0
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\cf\cf997eec429c4885b6ae5853394407e0
+    projectPath: Library\Artifacts\cf\cf997eec429c4885b6ae5853394407e0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\cf\cff6a67b64b83bdc5abdc895bac1be45
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\cf\cff6a67b64b83bdc5abdc895bac1be45
+    projectPath: Library\Artifacts\cf\cff6a67b64b83bdc5abdc895bac1be45
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d0\d087e97ee159869f67d35cdc182cdd5f
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d0\d087e97ee159869f67d35cdc182cdd5f
+    projectPath: Library\Artifacts\d0\d087e97ee159869f67d35cdc182cdd5f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d1\d1a5e27bf7b90bafebf845fa840f28b8
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d1\d1a5e27bf7b90bafebf845fa840f28b8
+    projectPath: Library\Artifacts\d1\d1a5e27bf7b90bafebf845fa840f28b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d2\d2579dc03a1b13611b9a0c95173308f1
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d2\d2579dc03a1b13611b9a0c95173308f1
+    projectPath: Library\Artifacts\d2\d2579dc03a1b13611b9a0c95173308f1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d4\d4be7c84e3a089c8f661cfc4e3486dfa
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d4\d4be7c84e3a089c8f661cfc4e3486dfa
+    projectPath: Library\Artifacts\d4\d4be7c84e3a089c8f661cfc4e3486dfa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d5\d5f3143fb8854c80afbe1f121dd2facd
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d5\d5f3143fb8854c80afbe1f121dd2facd
+    projectPath: Library\Artifacts\d5\d5f3143fb8854c80afbe1f121dd2facd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d7\d70a2cc3e887215c2e0a9d76f381224d
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d7\d70a2cc3e887215c2e0a9d76f381224d
+    projectPath: Library\Artifacts\d7\d70a2cc3e887215c2e0a9d76f381224d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d8\d87845b12e930af7add4b8f7a451cfad
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d8\d87845b12e930af7add4b8f7a451cfad
+    projectPath: Library\Artifacts\d8\d87845b12e930af7add4b8f7a451cfad
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d9\d92912812c9ba0f994ba94f7522862bb
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d9\d92912812c9ba0f994ba94f7522862bb
+    projectPath: Library\Artifacts\d9\d92912812c9ba0f994ba94f7522862bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d9\d9ea6e788eded24392693d309931b31c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\d9\d9ea6e788eded24392693d309931b31c
+    projectPath: Library\Artifacts\d9\d9ea6e788eded24392693d309931b31c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\db\db84dbfa78eafda2be62956215abf722
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\db\db84dbfa78eafda2be62956215abf722
+    projectPath: Library\Artifacts\db\db84dbfa78eafda2be62956215abf722
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\db\dbea18055e1c84ab353ee861a195a509
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\db\dbea18055e1c84ab353ee861a195a509
+    projectPath: Library\Artifacts\db\dbea18055e1c84ab353ee861a195a509
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\de\de9cf72c5a4640297f490f2333580b6f
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\de\de9cf72c5a4640297f490f2333580b6f
+    projectPath: Library\Artifacts\de\de9cf72c5a4640297f490f2333580b6f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\df\df784e70a938e66ea29dc80f710af253
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\df\df784e70a938e66ea29dc80f710af253
+    projectPath: Library\Artifacts\df\df784e70a938e66ea29dc80f710af253
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\e0\e0197d6159ef70943fed4e3804a65448
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\e0\e0197d6159ef70943fed4e3804a65448
+    projectPath: Library\Artifacts\e0\e0197d6159ef70943fed4e3804a65448
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\e2\e20f286c4fd6d6e235cb7ed68e200d90
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\e2\e20f286c4fd6d6e235cb7ed68e200d90
+    projectPath: Library\Artifacts\e2\e20f286c4fd6d6e235cb7ed68e200d90
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\e2\e24fd2e1ed21070d9add4f9f26102578
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\e2\e24fd2e1ed21070d9add4f9f26102578
+    projectPath: Library\Artifacts\e2\e24fd2e1ed21070d9add4f9f26102578
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\e2\e2c57d07a0fd82d53d8af1c20853fa5a
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\e2\e2c57d07a0fd82d53d8af1c20853fa5a
+    projectPath: Library\Artifacts\e2\e2c57d07a0fd82d53d8af1c20853fa5a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\e3\e33ddda1932cb46f438b1573c6d53b3f
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\e3\e33ddda1932cb46f438b1573c6d53b3f
+    projectPath: Library\Artifacts\e3\e33ddda1932cb46f438b1573c6d53b3f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\e4\e4e7a4333ef656041837f033ad702f5d
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\e4\e4e7a4333ef656041837f033ad702f5d
+    projectPath: Library\Artifacts\e4\e4e7a4333ef656041837f033ad702f5d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\e7\e7d725caa0940e2996c8896af7c4f3cf
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\e7\e7d725caa0940e2996c8896af7c4f3cf
+    projectPath: Library\Artifacts\e7\e7d725caa0940e2996c8896af7c4f3cf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\eb\eb9d311a1ebb098d96d91d9a8f65ff1e
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\eb\eb9d311a1ebb098d96d91d9a8f65ff1e
+    projectPath: Library\Artifacts\eb\eb9d311a1ebb098d96d91d9a8f65ff1e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ec\ec15f2087dae970a1025c687a3d8bf9f
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ec\ec15f2087dae970a1025c687a3d8bf9f
+    projectPath: Library\Artifacts\ec\ec15f2087dae970a1025c687a3d8bf9f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ec\ecdc4360937f34ef68e41dd24e013b75
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ec\ecdc4360937f34ef68e41dd24e013b75
+    projectPath: Library\Artifacts\ec\ecdc4360937f34ef68e41dd24e013b75
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ed\edcf439147175c59dbbd3418a9cefedf
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ed\edcf439147175c59dbbd3418a9cefedf
+    projectPath: Library\Artifacts\ed\edcf439147175c59dbbd3418a9cefedf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ee\ee95441f53b50cd712a5933ed1bb83b1
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ee\ee95441f53b50cd712a5933ed1bb83b1
+    projectPath: Library\Artifacts\ee\ee95441f53b50cd712a5933ed1bb83b1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ef\ef5ab1b1279d15bfa7c3af86dc29f5fd
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ef\ef5ab1b1279d15bfa7c3af86dc29f5fd
+    projectPath: Library\Artifacts\ef\ef5ab1b1279d15bfa7c3af86dc29f5fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f2\f2196b9abce6b22429ed2428d651a3b2
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f2\f2196b9abce6b22429ed2428d651a3b2
+    projectPath: Library\Artifacts\f2\f2196b9abce6b22429ed2428d651a3b2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f2\f225ba9f777c8510300d856589a2ccdb
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f2\f225ba9f777c8510300d856589a2ccdb
+    projectPath: Library\Artifacts\f2\f225ba9f777c8510300d856589a2ccdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f2\f2d34bff71d29c1fbc3c187c806c9c56
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f2\f2d34bff71d29c1fbc3c187c806c9c56
+    projectPath: Library\Artifacts\f2\f2d34bff71d29c1fbc3c187c806c9c56
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f3\f38a8809eb703e08d0ee59d80fee2c9f
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f3\f38a8809eb703e08d0ee59d80fee2c9f
+    projectPath: Library\Artifacts\f3\f38a8809eb703e08d0ee59d80fee2c9f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f4\f4478299eba1b619b5132c804522bb59
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f4\f4478299eba1b619b5132c804522bb59
+    projectPath: Library\Artifacts\f4\f4478299eba1b619b5132c804522bb59
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f4\f4486a8f29c1e2a9c072e94a0ce1f227
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f4\f4486a8f29c1e2a9c072e94a0ce1f227
+    projectPath: Library\Artifacts\f4\f4486a8f29c1e2a9c072e94a0ce1f227
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f4\f4d7d276bdab59aab7ed4d9fb2322f7e
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f4\f4d7d276bdab59aab7ed4d9fb2322f7e
+    projectPath: Library\Artifacts\f4\f4d7d276bdab59aab7ed4d9fb2322f7e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f5\f5ee52e8f1b6c8d987103687272df335
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f5\f5ee52e8f1b6c8d987103687272df335
+    projectPath: Library\Artifacts\f5\f5ee52e8f1b6c8d987103687272df335
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f6\f697980a1bd31957abbb64927ca7eb97
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f6\f697980a1bd31957abbb64927ca7eb97
+    projectPath: Library\Artifacts\f6\f697980a1bd31957abbb64927ca7eb97
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f7\f70717f5a29409b9f5b489a0911f02c4
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f7\f70717f5a29409b9f5b489a0911f02c4
+    projectPath: Library\Artifacts\f7\f70717f5a29409b9f5b489a0911f02c4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f7\f76ae50860d14c480e0763932655f5dd
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\f7\f76ae50860d14c480e0763932655f5dd
+    projectPath: Library\Artifacts\f7\f76ae50860d14c480e0763932655f5dd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\fa\fa68ad43e55b369cd89809455f156b4a
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\fa\fa68ad43e55b369cd89809455f156b4a
+    projectPath: Library\Artifacts\fa\fa68ad43e55b369cd89809455f156b4a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\fb\fb413382323b5860772087d04b9e8cd8
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\fb\fb413382323b5860772087d04b9e8cd8
+    projectPath: Library\Artifacts\fb\fb413382323b5860772087d04b9e8cd8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\fd\fd94dcb77b23f0dce23a23e2a05cd344
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\fd\fd94dcb77b23f0dce23a23e2a05cd344
+    projectPath: Library\Artifacts\fd\fd94dcb77b23f0dce23a23e2a05cd344
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\fd\fd9e274288109c44db19ffba9f5f1c5c
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\fd\fd9e274288109c44db19ffba9f5f1c5c
+    projectPath: Library\Artifacts\fd\fd9e274288109c44db19ffba9f5f1c5c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\fe\fe31275790eef2c82c530c8b9a842cd0
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\fe\fe31275790eef2c82c530c8b9a842cd0
+    projectPath: Library\Artifacts\fe\fe31275790eef2c82c530c8b9a842cd0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ff\ff55eee4462299cfc2399374468c77c6
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ff\ff55eee4462299cfc2399374468c77c6
+    projectPath: Library\Artifacts\ff\ff55eee4462299cfc2399374468c77c6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ff\ff8363664f5142160f815ddcec388791
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ff\ff8363664f5142160f815ddcec388791
+    projectPath: Library\Artifacts\ff\ff8363664f5142160f815ddcec388791
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ff\ff972e94a72f8a9d2f4e6209ac5d8192
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ff\ff972e94a72f8a9d2f4e6209ac5d8192
+    projectPath: Library\Artifacts\ff\ff972e94a72f8a9d2f4e6209ac5d8192
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ff\ffca9e1a600155661ce1e382a3bf61fb
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\Artifacts\ff\ffca9e1a600155661ce1e382a3bf61fb
+    projectPath: Library\Artifacts\ff\ffca9e1a600155661ce1e382a3bf61fb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\EditorInstance.json
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\PackageManager\ProjectCache
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\PackageManager\ProjectCache.md5
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\PackageManager\ProjectCache.md5
+    projectPath: Library\PackageManager\ProjectCache.md5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\SceneVisibilityState.asset
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Library\SourceAssetDB
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe8.log
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Logs\shadercompiler-UnityShaderCompiler.exe8.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe8.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Packages\packages-lock.json
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Packages\packages-lock.json
+    projectPath: Packages\packages-lock.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TerrainMapModule\TrueTerrainMapTest\Temp\DefaultLayout.wlt
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Temp\DefaultLayout.wlt
+    projectPath: Temp\DefaultLayout.wlt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TerrainMapModule\TrueTerrainMapTest\Temp\ProcessJobs\1b07b3c487e4bb5460a6315cfe3c32d1.bakert
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Temp\ProcessJobs\1b07b3c487e4bb5460a6315cfe3c32d1.bakert
+    projectPath: Temp\ProcessJobs\1b07b3c487e4bb5460a6315cfe3c32d1.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TerrainMapModule\TrueTerrainMapTest\Temp\UnityLockfile
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TerrainMapModule\TrueTerrainMapTest\Temp\workerlic
+    fullPath: C:\Users\mbeze\Desktop\CapstoneAR\TerrainMapModule\TrueTerrainMapTest\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
